@@ -3,6 +3,6 @@ for anyone lazy like me who has cookie cutter cover letters and doesn't want to 
 
 This project takes strings of cover letters, asks for user inputs of the position and company names, and then fills this information in, along with the date, to the cover letter of choice and creates a pdf file within the current directory. 
 
-The position, company, and date are put into a dataframe and stored in the csv file job_apps.csv. You need this file in your current dir (or change path). 
+The position, company, and date are put into a SQLite database and stored in your current working directory
 
 Let's get this bread!
